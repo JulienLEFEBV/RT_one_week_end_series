@@ -1,1 +1,1 @@
-It is just me learning ray tracing based on https://raytracing.github.io/books/RayTracingInOneWeekend.html and https://raytracing.github.io/books/RayTracingTheNextWeek.html
+It is just me learning ray tracing based on https://raytracing.github.io/books/RayTracingInOneWeekend.html, https://raytracing.github.io/books/RayTracingTheNextWeek.html and https://raytracing.github.io/books/RayTracingTheRestOfYourLife.html
